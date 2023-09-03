@@ -22,6 +22,7 @@
 		<dependency>
 			<groupId>net.fsd</groupId>
 			<artifactId>medicarebackend</artifactId>
+			<packaging>war</packaging>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		
